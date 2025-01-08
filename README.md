@@ -18,7 +18,7 @@ The repository is organized company-wise, with solutions and explanations provid
 | Day | Company      | Questions Solved | Status      |
 |-----|--------------|------------------|-------------|
 | 1   | Microsoft    | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
-| 1   | Amazon       | ✅✅✅✅✅✅ 7 8 9 10 11 12 13 14 15 | InProgress |
+| 1   | Amazon       | ✅✅✅✅✅✅✅✅✅10 11 12 13 14 15 | InProgress |
 
 
 ---
