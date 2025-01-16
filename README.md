@@ -20,6 +20,7 @@ The repository is organized company-wise, with solutions and explanations provid
 | 1   | Microsoft    | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
 | 2   | Amazon       | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
 | 3   | Walmart      | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
+| 4   | Google       | ✅✅✅ 4 5 6 7 8 9 10 11 12 13 14 15 | InProgress|
 
 
 ---
