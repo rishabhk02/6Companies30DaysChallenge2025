@@ -22,7 +22,7 @@ The repository is organized company-wise, with solutions and explanations provid
 | 3   | Walmart      | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
 | 4   | Google       | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
 | 5   | Atlassian    | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
-| 6   | Goldman Sachs| ✅✅✅✅✅✅✅✅✅10 11 12 13 14 15 | InProgress |
+| 6   | Goldman Sachs| ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ | Completed |
 
 
 ---
